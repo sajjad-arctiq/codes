@@ -12,7 +12,7 @@ SubStatus,Reason,
 0xc0000133,Clocks between DC and other computer too far out of sync,
 0xc000015b,The user has not been granted the requested logon type (aka logon right) at this machine,
 0xc000018c,The logon request failed because the trust relationship between the primary domain and the trusted domain failed,
-0xc0000192,An attempt was made to logon but the Netlogon service was not started
+0xc0000192,An attempt was made to logon but the Netlogon service was not started,
 0xc0000193,User logon with expired account,
 0xc0000224,User is required to change password at next logon,
 0xc0000225,Evidently a bug in Windows and not a risk,
